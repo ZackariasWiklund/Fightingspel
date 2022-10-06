@@ -1,0 +1,15 @@
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\bin\Debug\net6.0\Fightingspel.exe
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\bin\Debug\net6.0\Fightingspel.deps.json
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\bin\Debug\net6.0\Fightingspel.runtimeconfig.json
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\bin\Debug\net6.0\Fightingspel.dll
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\bin\Debug\net6.0\Fightingspel.pdb
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\Fightingspel.csproj.AssemblyReference.cache
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\Fightingspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\Fightingspel.AssemblyInfoInputs.cache
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\Fightingspel.AssemblyInfo.cs
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\Fightingspel.csproj.CoreCompileInputs.cache
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\Fightingspel.dll
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\refint\Fightingspel.dll
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\Fightingspel.pdb
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\Fightingspel.genruntimeconfig.cache
+C:\Programmering\Fightingspel\Fightingspel\Fightingspel\obj\Debug\net6.0\ref\Fightingspel.dll
